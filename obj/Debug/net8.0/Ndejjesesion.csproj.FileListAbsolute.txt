@@ -1,0 +1,14 @@
+C:\Users\WEREQ\Desktop\Ndejjesesion\bin\Debug\net8.0\Ndejjesesion.exe
+C:\Users\WEREQ\Desktop\Ndejjesesion\bin\Debug\net8.0\Ndejjesesion.deps.json
+C:\Users\WEREQ\Desktop\Ndejjesesion\bin\Debug\net8.0\Ndejjesesion.runtimeconfig.json
+C:\Users\WEREQ\Desktop\Ndejjesesion\bin\Debug\net8.0\Ndejjesesion.dll
+C:\Users\WEREQ\Desktop\Ndejjesesion\bin\Debug\net8.0\Ndejjesesion.pdb
+C:\Users\WEREQ\Desktop\Ndejjesesion\obj\Debug\net8.0\Ndejjesesion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WEREQ\Desktop\Ndejjesesion\obj\Debug\net8.0\Ndejjesesion.AssemblyInfoInputs.cache
+C:\Users\WEREQ\Desktop\Ndejjesesion\obj\Debug\net8.0\Ndejjesesion.AssemblyInfo.cs
+C:\Users\WEREQ\Desktop\Ndejjesesion\obj\Debug\net8.0\Ndejjesesion.csproj.CoreCompileInputs.cache
+C:\Users\WEREQ\Desktop\Ndejjesesion\obj\Debug\net8.0\Ndejjesesion.dll
+C:\Users\WEREQ\Desktop\Ndejjesesion\obj\Debug\net8.0\refint\Ndejjesesion.dll
+C:\Users\WEREQ\Desktop\Ndejjesesion\obj\Debug\net8.0\Ndejjesesion.pdb
+C:\Users\WEREQ\Desktop\Ndejjesesion\obj\Debug\net8.0\Ndejjesesion.genruntimeconfig.cache
+C:\Users\WEREQ\Desktop\Ndejjesesion\obj\Debug\net8.0\ref\Ndejjesesion.dll
